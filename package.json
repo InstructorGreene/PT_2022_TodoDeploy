@@ -1,6 +1,6 @@
 {
   "name": "listapp",
-  "homepage": "https://github.com/InstructorGreene/PT_2022_TodoDeploy.git",
+  "homepage": "http://instructorgreene.github.io/PT_2022_TodoDeploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
